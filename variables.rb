@@ -9,3 +9,6 @@ years_teaching = 14
 height = 5.1
 investment_value = 1285.80
 bank_account_balance = 524.30
+
+parent = true
+tired = true
