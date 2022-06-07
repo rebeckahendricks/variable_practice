@@ -12,3 +12,6 @@ bank_account_balance = 524.30
 
 parent = true
 tired = true
+
+favorite_hobby = "sleeping"
+bank_account_balance = "10.50"
