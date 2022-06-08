@@ -15,3 +15,7 @@ tired = true
 
 favorite_hobby = "sleeping"
 bank_account_balance = "10.50"
+
+puts parent
+puts name
+puts height
